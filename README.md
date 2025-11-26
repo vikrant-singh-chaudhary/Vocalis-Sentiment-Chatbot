@@ -1,4 +1,4 @@
-# Vocalis: The Sentiment-Tracking Chatbot
+Vocalis: The Sentiment-Tracking Chatbot
 
 Hey Liaplus.ai , I'am vikrant Singh  This is my project for the sentiment analysis assignment—I named the chatbot Vocalis. The goal was to build a chatbot that not only chats but also figures out how the user is feeling throughout the conversation.
 
